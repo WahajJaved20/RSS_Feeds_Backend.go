@@ -1,8 +1,9 @@
-module github.com/WahajJaved20/RSS_Feeds_Backend.go
+module github.com/WahajJaved20/RSS_Feeds_Backend
 
 go 1.20
 
 require (
 	github.com/go-chi/chi v1.5.4
+	github.com/go-chi/cors v1.2.1
 	github.com/joho/godotenv v1.5.1
 )
